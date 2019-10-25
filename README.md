@@ -17,4 +17,4 @@
 ```
 
 ## 扩展
-关于SpringBoot指定Starter可以参见本片文章[传送门](https://www.zjfzjf.com/2019/10/25/2019_10_25_springboot-creating-starter/)
+关于SpringBoot自定义Starter可以参见本片文章[传送门](https://www.zjfzjf.com/2019/10/25/2019_10_25_springboot-creating-starter/)
